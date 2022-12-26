@@ -2,6 +2,5 @@
 - hello I'am halil deniz
 - I am digital content
 - my youtube channel   :  https://www.youtube.com/channel/UCIbUV073qL7Y8rd6MAYi2tQ
-- my telegram group    :  https://t.me/hackerevreni1
-- my instagram address :  https://www.instagram.com/hacker.evrenii/
+- my instagram address :  https://www.instagram.com/deniz.halil333/
 - batch platforms      :  https://linktr.ee/halildeniz
