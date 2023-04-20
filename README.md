@@ -52,5 +52,6 @@ I'm 23 years old and currently live in Mersin city. I'm a student of cybersecuri
 
 ## Badges
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/103748.png)](https://tryhackme.com/p/halilovic)
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/103748.png)](https://tryhackme.com/p/halilovic)
 
 
