@@ -40,7 +40,7 @@ I'm 23 years old and currently live in Mersin city. I'm a student of cybersecuri
 
 - Learning foreign languages: Learning languages is an important hobby for me. Currently, I'm improving my English and learning German. I also plan to learn other languages in the future.
 - Knowledge Sharing: I always enjoy sharing what I've learned.
-- [Specific Interest]
+
 
 ## Contact
 
