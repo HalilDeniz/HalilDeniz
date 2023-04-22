@@ -52,3 +52,19 @@ I'm 23 years old and currently live in Mersin city. I'm a student of cybersecuri
 
 ## Badges
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/halilovic.png)](https://tryhackme.com/p/halilovic)
+
+## Badges
+
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/halilovic.png)
+
+## Certificates
+I have achieved the following certificates:
+- [CompTIA Pentest+ Learning Path Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-WJJBPULUUZ.png)
+- [Web Fundamentals Learning Path Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-B9TDMJ2WEX.png)
+- [Complate Beginner Learning Path Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-3MEB4WAZ49.png)
+- [Jr Penetration Tester Learning Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-LIGW7HCEYJ.png)
+- [Introduction to Cyber Security Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-IPRMSN7E9Q.png)
+- [Red Teaming Learning Path Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-NCWCUV3KS8.png)
+- [Pre Security Learning Path Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-QUUCHXZJGP.png)
+
+
