@@ -62,6 +62,6 @@ I have achieved the following certificates:
 - [Introduction to Cyber Security Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-IPRMSN7E9Q.png)
 - [Red Teaming Learning Path Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-NCWCUV3KS8.png)
 - [Pre Security Learning Path Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-QUUCHXZJGP.png)
-- [Cyber Defense Learning Path Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-NCWCUV3KS8.png)
+- [Cyber Defense Learning Path Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-ALYOXGPUMY.png)
 
 
