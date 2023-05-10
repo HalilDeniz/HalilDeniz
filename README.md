@@ -43,7 +43,7 @@ I'm 23 years old and currently live in Mersin city. I'm a student of cybersecuri
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=halildeniz&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=halildeniz&theme=tokyonight&hide_border=false)<br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=halildeniz&theme=tokyonight&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=halildeniz&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
