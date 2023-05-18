@@ -56,8 +56,9 @@ I'm 23 years old and currently live in Mersin city. I'm a student of cybersecuri
 - YouTube  : https://www.youtube.com/c/HalilDeniz
 
 ## Badges
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/halilovic.png)](https://tryhackme.com/p/halilovic)
-<img width="500" height="450" src="badge.png">
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/halilovic.png)<br>
+<img weight=200 height=200 src="badge.png">
+
 
 ## Certificates
 I have achieved the following certificates:
