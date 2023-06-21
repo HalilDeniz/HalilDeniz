@@ -48,7 +48,7 @@ I'm 23 years old and currently live in Mersin city. I'm a student of cybersecuri
 ## Launguages
 ![Langs](https://skillicons.dev/icons?i=python,cpp,php,bash,powershell,sqlite,html")
 ## Technologies
-![Techs](https://skillicons.dev/icons?i=linux,github,bash,vscode,gitlab,raspberrypi,powershell,vim")
+![Techs](https://skillicons.dev/icons?i=linux,github,bash,gitlab,raspberrypi,powershell,vim")
 
 ## Badges
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/halilovic.png)](https://tryhackme.com/p/halilovic)<br>
