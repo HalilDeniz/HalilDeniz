@@ -45,16 +45,10 @@ I'm 23 years old and currently live in Mersin city. I'm a student of cybersecuri
 ![](https://github-readme-stats.vercel.app/api?username=halildeniz&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=halildeniz&theme=tokyonight&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=halildeniz&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-## Contact
-
-- Email    : halildeniz313@gmail.com
-- Linkedin : https://www.linkedin.com/in/halil-ibrahim-deniz/
-- TryHackMe: https://tryhackme.com/p/halilovic
-- Instagram: https://www.instagram.com/deniz.halil333/
-- YouTube  : https://www.youtube.com/c/HalilDeniz
-- Mysite   : https://denizhalil.com/
+## Launguages
+![Langs](https://skillicons.dev/icons?i=python,c++,php,bash,powershell,sqlite")
+## Technologies
+![Techs](https://skillicons.dev/icons?i=linux,vscode,git,bash,gitlab,raspberrypi,powershell")
 
 ## Badges
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/halilovic.png)](https://tryhackme.com/p/halilovic)<br>
@@ -72,4 +66,11 @@ I have achieved the following certificates:
 - [Pre Security Learning Path Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-QUUCHXZJGP.png)
 - [Cyber Defense Learning Path Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-ALYOXGPUMY.png)
 
+## Contact
 
+- Email    : halildeniz313@gmail.com
+- Linkedin : https://www.linkedin.com/in/halil-ibrahim-deniz/
+- TryHackMe: https://tryhackme.com/p/halilovic
+- Instagram: https://www.instagram.com/deniz.halil333/
+- YouTube  : https://www.youtube.com/c/HalilDeniz
+- Mysite   : https://denizhalil.com/
