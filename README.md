@@ -46,9 +46,9 @@ I'm 23 years old and currently live in Mersin city. I'm a student of cybersecuri
 ![](https://github-readme-streak-stats.herokuapp.com/?user=halildeniz&theme=tokyonight&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=halildeniz&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ## Launguages
-![Langs](https://skillicons.dev/icons?i=python,c++,php,bash,powershell,sqlite,html,vim")
+![Langs](https://skillicons.dev/icons?i=python,cpp,php,bash,powershell,sqlite,html,vim")
 ## Technologies
-![Techs](https://skillicons.dev/icons?i=linux,vscode,github,bash,gitlab,raspberrypi,powershell")
+![Techs](https://skillicons.dev/icons?i=linux,github,bash,gitlab,raspberrypi,powershell")
 
 ## Badges
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/halilovic.png)](https://tryhackme.com/p/halilovic)<br>
