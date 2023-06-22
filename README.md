@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm 23 years old and currently live in Mersin city. I'm a student of cybersecurity and programming. Due to my interest in technology and learning, I enjoy working with computers and coding.
+I'm 23 years old. I'm a student of cybersecurity and programming. Due to my interest in technology and learning, I enjoy working with computers and coding.
 
 ## Skills
 
