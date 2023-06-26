@@ -39,7 +39,7 @@ I'm 23 years old. I'm a student of cybersecurity and programming. Due to my inte
 ## Interests
 
 - Learning foreign languages: Learning languages is an important hobby for me. Currently, I'm improving my English and learning German. I also plan to learn other languages in the future.
-- Knowledge Sharing: I always enjoy sharing what I've learned.
+- Knowledge Sharing: I always like to share the information I learn on my website called [DenizHali](htts://denizhalil.com) with people in the most descriptive way.
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=halildeniz&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
