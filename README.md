@@ -55,7 +55,9 @@ I'm 23 years old. I'm a student of cybersecurity and programming. Due to my inte
 <img weight=200 height=200 src="badge.png">
 <img weight=200 height=200 src="ctm.png">
 <img weight=200 height=200 src="ic.png">
+<img weight=200 height=200 src="crposs.png">
 
+crposs.png
 ## Certificates
 I have achieved the following certificates:
 - [CompTIA Pentest+ Learning Path Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-WJJBPULUUZ.png)
