@@ -52,7 +52,7 @@ I'm 23 years old. I'm a student of cybersecurity and programming. Due to my inte
 
 ## Badges
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/halilovic.png)](https://tryhackme.com/p/halilovic)<br>
-<img weight=200 height=200 src="badge.png">
+<img weight=400  height=400 src="badge.png">
 
 
 ## Certificates
