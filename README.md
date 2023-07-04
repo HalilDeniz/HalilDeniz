@@ -46,7 +46,7 @@ I'm 23 years old. I'm a student of cybersecurity and programming. Due to my inte
 ![](https://github-readme-streak-stats.herokuapp.com/?user=halildeniz&theme=tokyonight&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=halildeniz&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ## Launguages
-![Langs](https://skillicons.dev/icons?i=python,cpp,php,bash,powershell,sqlite,html")
+![Langs](https://skillicons.dev/icons?i=python,cpp,php,bash,powershell,sqlite,mysql,html")
 ## Technologies
 ![Techs](https://skillicons.dev/icons?i=linux,github,bash,gitlab,raspberrypi,powershell,vim")
 
