@@ -2,7 +2,14 @@
 
 ## About Me
 
-Hello, my name is Halil Ibrahim. I'm 23 years old and a high school graduate. As I build my career, I'm focusing on developing my skills in the fields of cybersecurity and programming. As a blog writer, I publish five articles on my website every week, and on my GitHub account, I share one open-source project per week. I am actively working on improving my English skills and also learning German for programming purposes.
+Hello, my name is Halil Ibrahim. I am 23 years old and a high school graduate. 
+I am currently building my career in the fields of cybersecurity and programming. 
+As a blog writer, I publish five articles on my website every week, and I share one open-source project on my GitHub account every week. 
+I am actively improving my English skills while also learning German.
+
+
+
+
 ## Skills
 
 ### Cybersecurity
