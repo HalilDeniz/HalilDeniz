@@ -2,8 +2,7 @@
 
 ## About Me
 
-I'm 23 years old. I'm a student of cybersecurity and programming. Due to my interest in technology and learning, I enjoy working with computers and coding.
-
+Hello, my name is Halil Ibrahim. I'm 23 years old and a high school graduate. As I build my career, I'm focusing on developing my skills in the fields of cybersecurity and programming. As a blog writer, I publish five articles on my website every week, and on my GitHub account, I share one open-source project per week. I am actively working on improving my English skills and also learning German for programming purposes.
 ## Skills
 
 ### Cybersecurity
