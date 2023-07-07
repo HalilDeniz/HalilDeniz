@@ -1,6 +1,6 @@
 # Hello, I'm Halil Ibrahim Deniz!
 
-## About Me
+## 💫 About Me
 
 Hello, my name is Halil Ibrahim. I am 23 years old and a high school graduate. 
 I am currently building my career in the fields of cybersecurity and programming. 
