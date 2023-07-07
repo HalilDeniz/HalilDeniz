@@ -7,7 +7,13 @@ I am currently building my career in the fields of cybersecurity and programming
 As a blog writer, I publish five articles on my website every week, and I share one open-source project on my GitHub account every week. 
 I am actively improving my English skills while also learning German.
 
-
+## 🌐 Socials:
+[![Denizhalil](https://img.shields.io/badge/Denizhalil-%23E4405F.svg?logo=Denizhalil&logoColor=white)](https://denizhalil.com/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/deniz.halil333) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/halil-ibrahim-deniz) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@HalilDeniz) 
+[![Tryhackme](https://img.shields.io/badge/Tryhackme-%23E4405F.svg?logo=Tryhackme&logoColor=white)](https://tryhackme.com/p/halilovic)
+[![E-mail](https://img.shields.io/badge/email-%23E4405F.svg?logo=email&logoColor=white)](halildeniz313@gmail.com)
 
 
 ## Skills
