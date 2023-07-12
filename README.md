@@ -64,10 +64,11 @@ I am actively improving my English skills while also learning German.
 
 ## Badges
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/halilovic.png)](https://tryhackme.com/p/halilovic)<br>
-<img weight=200 height=200 src="badge.png">
+<img weight=200 height=200 src="endpoint-security.png">
 <img weight=200 height=200 src="ctm.png">
 <img weight=200 height=200 src="ic.png">
 <img weight=200 height=200 src="crposs.png">
+<img weight=200 height=200 src="badge.png">
 
 crposs.png
 ## Certificates
