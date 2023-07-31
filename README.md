@@ -67,8 +67,11 @@ I am actively improving my English skills while also learning German.
 <img weight=200 height=200 src="endpoint-security.png">
 <img weight=200 height=200 src="ctm.png">
 <img weight=200 height=200 src="ic.png">
+<img weight=200 height=200 src="network-defense.png">
 <img weight=200 height=200 src="crposs.png">
 <img weight=200 height=200 src="badge.png">
+
+network-defense.png
 
 crposs.png
 ## Certificates
