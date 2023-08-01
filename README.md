@@ -72,9 +72,6 @@ I am actively improving my English skills while also learning German.
 <img weight=200 height=200 src="crposs.png">
 <img weight=200 height=200 src="badge.png">
 
-network-defense.png
-
-crposs.png
 ## Certificates
 I have achieved the following certificates:
 - [CompTIA Pentest+ Learning Path Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-WJJBPULUUZ.png)
