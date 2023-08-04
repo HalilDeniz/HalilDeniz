@@ -70,8 +70,10 @@ I am actively improving my English skills while also learning German.
 <img weight=200 height=200 src="network-defense.png">
 <img weight=200 height=200 src="operating-systems-basics.png">
 <img weight=200 height=200 src="computer-hardware-basics.png">
+<img weight=200 height=200 src="python-essentials-1.1.png">
 <img weight=200 height=200 src="crposs.png">
 <img weight=200 height=200 src="badge.png">
+
 
 ## Certificates
 I have achieved the following certificates:
