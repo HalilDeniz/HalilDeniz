@@ -71,8 +71,10 @@ Hello, I'm Halil Ibrahim. At the age of 23 and with a high school diploma in han
 <img weight=200 height=200 src="computer-hardware-basics.png">
 <img weight=200 height=200 src="python-essentials-1.1.png">
 <img weight=200 height=200 src="python-essentials-2.png">
+<img weight=200 height=200 src="networking-devices-and-initial-configuration.png">
 <img weight=200 height=200 src="crposs.png">
 <img weight=200 height=200 src="badge.png">
+
 
 ## Certificates
 I have achieved the following certificates:
