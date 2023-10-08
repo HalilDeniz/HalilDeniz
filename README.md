@@ -74,7 +74,7 @@ Hello, I'm Halil Ibrahim. At the age of 23 and with a high school diploma in han
 <img weight=200 height=200 src="networking-devices-and-initial-configuration.png">
 <img weight=200 height=200 src="crposs.png">
 <img weight=200 height=200 src="badge.png">
-
+<img src="https://tryhackme-badges.s3.amazonaws.com/halilovic.png" alt="TryHackMe">
 
 ## Certificates
 I have achieved the following certificates:
