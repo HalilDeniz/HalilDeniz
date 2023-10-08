@@ -61,8 +61,6 @@ Hello, I'm Halil Ibrahim. At the age of 23 and with a high school diploma in han
 
 ## Badges
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/halilovic.png)](https://tryhackme.com/p/halilovic)<br>
-<script src="https://tryhackme.com/badge/103748"></script>
-
 <img weight=200 height=200 src="endpoint-security.png">
 <img weight=200 height=200 src="ctm.png">
 <img weight=200 height=200 src="ic.png">
