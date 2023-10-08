@@ -60,7 +60,7 @@ Hello, I'm Halil Ibrahim. At the age of 23 and with a high school diploma in han
 ![Techs](https://skillicons.dev/icons?i=linux,github,bash,gitlab,raspberrypi,powershell,vim")
 
 ## Badges
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/halilovic.png)](https://tryhackme.com/p/halilovic)<br>
+[![TryHackMe Badge]()](https://tryhackme.com/p/halilovic)<br>
 <img weight=200 height=200 src="endpoint-security.png">
 <img weight=200 height=200 src="ctm.png">
 <img weight=200 height=200 src="ic.png">
