@@ -2,7 +2,12 @@
 
 ## 💫 About Me
 
-Hello, I'm Halil Ibrahim. At the age of 23 and with a high school diploma in hand, I've nurtured an immense passion for the dynamic worlds of cybersecurity and programming. My journey has led me to delve deep into programming languages like Python, Java, and Rust, each of which I've applied in real-world scenarios. I've had the privilege of using these skills to assist a prominent website dedicated exclusively to cybersecurity, enhancing its infrastructure and fortifying its defenses. I also share my evolving knowledge and experiences through in-depth articles on my blog each week. To further serve the programming community, I release an open-source project on my GitHub account on a weekly basis. Continuous learning is at the heart of my ethos; alongside refining my technical expertise, I'm earnestly working to elevate my command over English and to embrace the challenges of learning German.
+Hello, I'm Halil Ibrahim. 
+At the age of 23 and with a high school diploma in hand, I've nurtured an immense passion for the dynamic worlds of cybersecurity and programming. 
+My journey has led me to delve deep into programming languages like Python, Java, and Rust, each of which I've applied in real-world scenarios. 
+I've had the privilege of using these skills to assist a prominent website dedicated exclusively to cybersecurity, enhancing its infrastructure and fortifying its defenses. 
+I also share my evolving knowledge and experiences through in-depth articles on my blog each week. To further serve the programming community, I release an open-source project on my GitHub account on a weekly basis. 
+Continuous learning is at the heart of my ethos; alongside refining my technical expertise, I'm earnestly working to elevate my command over English and to embrace the challenges of learning German.
 
 ## 🌐 Socials:
 [![Denizhalil](https://img.shields.io/badge/Denizhalil-%23E4405F.svg?logo=Denizhalil&logoColor=white)](https://denizhalil.com/)
