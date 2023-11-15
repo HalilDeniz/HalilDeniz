@@ -55,6 +55,8 @@ Continuous learning is at the heart of my ethos; alongside refining my technical
 - Learning foreign languages: Learning languages is an important hobby for me. Currently, I'm improving my English and learning German. I also plan to learn other languages in the future.
 - Knowledge Sharing: I always like to share the information I learn on my website called [DenizHali](https://denizhalil.com) with people in the most descriptive way.
 
+---
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=halildeniz&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=halildeniz&theme=tokyonight&hide_border=false)
@@ -63,6 +65,13 @@ Continuous learning is at the heart of my ethos; alongside refining my technical
 ![Langs](https://skillicons.dev/icons?i=python,cpp,php,bash,powershell,sqlite,mysql,html")
 ## Technologies
 ![Techs](https://skillicons.dev/icons?i=linux,github,bash,gitlab,raspberrypi,powershell,vim")
+
+---
+
+# 📖 My Book
+- Mastering Scapy: A Comprehensive Guide to [Network Analysis](https://denizhalil.com/2023/11/12/scapy-guide-to-network-analysis-book/)
+
+---
 
 ## Badges
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/halilovic.png)](https://tryhackme.com/p/halilovic)<br>
