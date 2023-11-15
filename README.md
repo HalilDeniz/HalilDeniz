@@ -17,6 +17,10 @@ Continuous learning is at the heart of my ethos; alongside refining my technical
 [![Tryhackme](https://img.shields.io/badge/Tryhackme-%23E4405F.svg?logo=Tryhackme&logoColor=white)](https://tryhackme.com/p/halilovic)
 [![E-mail](https://img.shields.io/badge/email-%23E4405F.svg?logo=email&logoColor=white)](halildeniz313@gmail.com)
 
+## 📖 My Book
+- Mastering Scapy: A Comprehensive Guide to [Network Analysis](https://denizhalil.com/2023/11/12/scapy-guide-to-network-analysis-book/)
+
+
 
 ## Skills
 
@@ -64,10 +68,6 @@ Continuous learning is at the heart of my ethos; alongside refining my technical
 ![Langs](https://skillicons.dev/icons?i=python,cpp,php,bash,powershell,sqlite,mysql,html")
 ## Technologies
 ![Techs](https://skillicons.dev/icons?i=linux,github,bash,gitlab,raspberrypi,powershell,vim")
-
-
-# 📖 My Book
-- Mastering Scapy: A Comprehensive Guide to [Network Analysis](https://denizhalil.com/2023/11/12/scapy-guide-to-network-analysis-book/)
 
 
 ## Badges
