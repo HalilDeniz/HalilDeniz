@@ -16,7 +16,7 @@ Continuous learning is at the heart of my ethos; alongside refining my technical
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@HalilDeniz) 
 [![Tryhackme](https://img.shields.io/badge/Tryhackme-%23E4405F.svg?logo=Tryhackme&logoColor=white)](https://tryhackme.com/p/halilovic)
 [![E-mail](https://img.shields.io/badge/email-%23E4405F.svg?logo=email&logoColor=white)](halildeniz313@gmail.com)
-
+[![Instagram](https://img.shields.io/badge/Discord-%23E4405F.svg?logo=Discord&logoColor=white)](https://discord.gg/nGBpfMHX4u)
 ---
 
 ## 📖 My Book
