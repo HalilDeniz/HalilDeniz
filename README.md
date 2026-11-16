@@ -110,7 +110,6 @@ I have achieved the following certificates:
 - Email    : halildeniz313@gmail.com
 - Linkedin : https://www.linkedin.com/in/halil-ibrahim-deniz/
 - TryHackMe: https://tryhackme.com/p/halilovic
-- Instagram: https://www.instagram.com/deniz.halil333/
 - YouTube  : https://www.youtube.com/c/HalilDeniz
 - Mysite   : https://denizhalil.com/
   
