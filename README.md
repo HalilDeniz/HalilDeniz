@@ -1,122 +1,92 @@
-# Hello, I'm Halil Ibrahim Deniz!
+# Hi, I'm Halil İbrahim Deniz 👋
 
-## 💫 About Me
+**Cybersecurity Researcher & Security Software Developer | Founder at DenizHalil.com**
 
-Hello, I'm Halil Ibrahim. 
-At the age of 23 and with a high school diploma in hand, I've nurtured an immense passion for the dynamic worlds of cybersecurity and programming. 
-My journey has led me to delve deep into programming languages like Python, Java, and Rust, each of which I've applied in real-world scenarios. 
-I've had the privilege of using these skills to assist a prominent website dedicated exclusively to cybersecurity, enhancing its infrastructure and fortifying its defenses. 
-I also share my evolving knowledge and experiences through in-depth articles on my blog each week. To further serve the programming community, I release an open-source project on my GitHub account on a weekly basis. 
-Continuous learning is at the heart of my ethos; alongside refining my technical expertise, I'm earnestly working to elevate my command over English and to embrace the challenges of learning German.
+I design and build high-performance offensive security tools, network traffic analyzers, and cross-platform reconnaissance suites. Ranked in the **Top 1% on TryHackMe**, I focus on turning complex security workflows into fast, reliable software using **Go, Python, C++, and Rust**.
 
-## 🌐 Socials:
-[![Denizhalil](https://img.shields.io/badge/Denizhalil-%23E4405F.svg?logo=Denizhalil&logoColor=white)](https://denizhalil.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/halil-ibrahim-deniz) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@HalilDeniz) 
-[![Tryhackme](https://img.shields.io/badge/Tryhackme-%23E4405F.svg?logo=Tryhackme&logoColor=white)](https://tryhackme.com/p/halilovic)
-[![E-mail](https://img.shields.io/badge/email-%23E4405F.svg?logo=email&logoColor=white)](halildeniz313@gmail.com)
-
----
-
-## 📖 My Book
-- Python Learning Roadmap in 30 Days: [here](https://github.com/HalilDeniz/Python30Days)
-- You can look here for the Practical [Posts I share.](https://www.buymeacoffee.com/halildeniz/posts)
-- Mastering Scapy: A Comprehensive Guide to [Network Analysis](https://denizhalil.com/2023/11/12/scapy-guide-to-network-analysis-book/)
-- Beginning Your Journey in Programming and Cybersecurity - [Navigating the Digital Future](https://www.buymeacoffee.com/halildeniz/e/191664)
-- Mastering Python for Ethical Hacking: A Comprehensive Guide to Building Hacking Tools[Buy Here](buymeacoffee.com/halildeniz/e/296372)
+My engineering work centers on concurrent architectures, low-level packet and HTTP inspection, and practical tooling for security researchers, penetration testers, and red teams—backed by **85+ open-source repositories**. Alongside open-source development, I lead **[denizhalil.com](https://denizhalil.com/)**, a cybersecurity services platform operated with a dedicated team of security professionals. In addition to delivering end-to-end cybersecurity services, we publish multiple in-depth technical articles and research notes every week, complemented by my authored books on network analysis and offensive security tooling.
 
 
-## Skills
-
-### Cybersecurity
-
-#### Network Security
-
-- Network security is one of the most important topics in cybersecurity. I'm trying to specialize in network security to keep my network safe.
-- My network security skills include fundamental topics such as secure encryption protocols, secure network configuration, and firewalls. I can also perform network security tests using different tools like network scanners, port scanning tools, and network analysis tools.
-
-#### Cybersecurity Tools
-
-- I'm constantly trying to improve myself by using different tools used in cybersecurity. These tools include various tools such as Nmap, Metasploit Framework, Wireshark, and Kali Linux.
-- By simulating different cyber attack scenarios using these tools, I can test defense mechanisms and improve network security.
-
-### Programming
-
-#### Python Programming
-
-- Python is one of the programming languages I know the best. I'm highly skilled in software development using this language and have developed solutions for many different projects using Python.
-- My Python skills include different topics such as data structures, functions, object-oriented programming, GUI programming, and web development. I also work on different areas such as artificial intelligence, data science, and machine learning using Python.
-
-#### C++ Programming
-
-- C++ is one of my favorite programming languages for software development. Since I started developing software in this language, I'm constantly trying to improve my C++ skills.
-- My C++ skills include fundamental topics such as data structures, algorithms, memory management, and object-oriented programming. I also work on different areas such as game development using C++.
-
-### Hardware
-
-#### Microcontroller Programming
-
-- Microcontroller programming is one of my favorite areas of expertise in hardware. In this area, I mainly work on platforms such as Arduino and Raspberry Pi.
-
-## Interests
-
-- Learning foreign languages: Learning languages is an important hobby for me. Currently, I'm improving my English and learning German. I also plan to learn other languages in the future.
-- Knowledge Sharing: I always like to share the information I learn on my website called [DenizHali](https://denizhalil.com) with people in the most descriptive way.
+[![Website](https://img.shields.io/badge/Website-denizhalil.com-111827?style=for-the-badge&logo=google-chrome&logoColor=white)](https://denizhalil.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/halil-ibrahim-deniz/)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%201%25-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/halilovic)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@HalilDeniz)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:halildeniz313@gmail.com)
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=halildeniz&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=halildeniz&theme=tokyonight&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=halildeniz&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-## Launguages
-![Langs](https://skillicons.dev/icons?i=python,cpp,php,bash,powershell,sqlite,mysql,html")
-## Technologies
-![Techs](https://skillicons.dev/icons?i=linux,github,bash,gitlab,raspberrypi,powershell,vim")
 
 
-## Badges
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/halilovic.png)](https://tryhackme.com/p/halilovic)<br>
-<img weight=200 height=200 src="endpoint-security.png">
-<img weight=200 height=200 src="ctm.png">
-<img weight=200 height=200 src="ic.png">
-<img weight=200 height=200 src="network-defense.png">
-<img weight=200 height=200 src="networking-basics.png">
-<img weight=200 height=200 src="introduction-to-packet-tracer.png">
-<img weight=200 height=200 src="operating-systems-basics.png">
-<img weight=200 height=200 src="computer-hardware-basics.png">
-<img weight=200 height=200 src="python-essentials-1.1.png">
-<img weight=200 height=200 src="python-essentials-2.png">
-<img weight=200 height=200 src="networking-devices-and-initial-configuration.png">
-<img weight=200 height=200 src="crposs.png">
-<img weight=200 height=200 src="badge.png">
+### 🛠️ Selected Open-Source Security Tools
+| Project | Stack | Description |
+| :--- | :--- | :--- |
+| **[VanguardHTTP](https://github.com/HalilDeniz/VanguardHTTP)** | `Go` `Wails v2` | Cross-platform HTTP probing, TLS inspection, and deep fingerprinting desktop suite |
+| **[DNSWatch](https://github.com/HalilDeniz/DNSWatch)** | `Python` `Scapy` | Real-time DNS traffic sniffer and anomaly analyzer |
+| **[NetworkAssessment](https://github.com/HalilDeniz/NetworkAssessment)** | `Python` | Automated PCAP compromise assessment and suspicious traffic analyzer |
+| **[TrafficWatch](https://github.com/HalilDeniz/TrafficWatch)** | `Python` | Packet sniffer and network traffic analyzer for PCAP forensics |
+| **[NetworkSherlock](https://github.com/HalilDeniz/NetworkSherlock)** | `Python` `Shodan` | Port scanner integrated with passive Shodan threat intelligence |
+| **[NetProbe](https://github.com/HalilDeniz/NetProbe)** | `Python` | Network reconnaissance and host probing utility |
+| **[RansomwareSim](https://github.com/HalilDeniz/RansomwareSim)** | `Python` | Controlled ransomware encryption and C2 behavior simulator for defense testing |
+| **[DoSinator](https://github.com/HalilDeniz/Dosinator)** | `Python` | Network resilience and Denial-of-Service (DoS) stress-testing framework |
+| **[BackDoorSim](https://github.com/HalilDeniz/BackDoorSim)** | `Python` | Client-server remote administration and C2 mechanics simulation |
 
-## Certificates
-I have achieved the following certificates:
-- [CompTIA Pentest+ Learning Path Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-WJJBPULUUZ.png)
-- [Web Fundamentals Learning Path Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-B9TDMJ2WEX.png)
-- [Complate Beginner Learning Path Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-3MEB4WAZ49.png)
-- [Jr Penetration Tester Learning Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-LIGW7HCEYJ.png)
-- [Introduction to Cyber Security Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-IPRMSN7E9Q.png)
-- [Red Teaming Learning Path Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-NCWCUV3KS8.png)
-- [Pre Security Learning Path Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-QUUCHXZJGP.png)
-- [Cyber Defense Learning Path Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-ALYOXGPUMY.png)
-- [SOC Level 1 learning Path Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-TEL2JZTZA3.png)
-- [Security Engineer Learning Path](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-Z8QJL6WRWL.png)
-- [Advent of Cyber 2022](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-9LPOWUAMK4.png)
-- [Advent of cyber 2021](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-UHFH3CHDIT.png)
 
-## Contact
-- Linktr   : https://linktr.ee/halildeniz
-- Email    : halildeniz313@gmail.com
-- Linkedin : https://www.linkedin.com/in/halil-ibrahim-deniz/
-- TryHackMe: https://tryhackme.com/p/halilovic
-- YouTube  : https://www.youtube.com/c/HalilDeniz
-- Mysite   : https://denizhalil.com/
-  
+### 🎯 Core Technical Domains
 
-  ## 💰 You can help me by Donating
-  Thank you for considering supporting me! Your support enables me to dedicate more time and effort to creating useful tools and developing new projects. By contributing, you're not only helping me improve existing tools but also inspiring new ideas and innovations. Your support plays a vital role in the growth of this project and future endeavors. Together, let's continue building and learning. Thank you!"<br>
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/halildeniz) 
-  [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/denizhalil) 
+- **Security Tooling & High-Concurrency Systems Engineering**
+  Architecting standalone, cross-platform security applications and CLI utilities in **Go, Python, C++, and Rust**. Focused on multi-threaded worker pools, token-bucket rate limiting, deadlock-free execution lifecycles, socket/memory efficiency, and native desktop architectures (**Wails v2**).
+- **Network Security, Packet Manipulation & PCAP Forensics**
+  Deep protocol-level inspection and custom packet crafting using **Scapy** and raw sockets. Experienced in real-time DNS traffic monitoring, PCAP compromise assessment, Indicator of Compromise (IoC) extraction, firewall/WAF behavior analysis, and network resilience testing.
+- **Offensive Security & Attack-Surface Discovery**
+  End-to-end web application and network penetration testing, automated reconnaissance pipelines, HTTP/TLS fingerprinting, X.509 certificate auditing, technology stack profiling, and threat intelligence enrichment via **Shodan**.
+- **Adversary Simulation & Detection Engineering**
+  Designing controlled offensive simulation frameworks—covering C2/RAT client-server mechanics, symmetric encryption workflows, and DoS stress-testing—to validate defensive controls, SIEM/SOC visibility, and incident response readiness.
+- **Hardware & Embedded Security**
+  Low-level microcontroller programming, hardware prototyping, and physical/embedded security experimentation on **Raspberry Pi** and **Arduino** platforms.
 
-  
+
+### ⚙️ Tech Stack & Security Arsenal
+
+**Languages & Scripting:**  
+![Languages](https://skillicons.dev/icons?i=go,python,cpp,rust,java,php,bash,powershell,mysql,sqlite)
+
+**Platforms & Infrastructure:**  
+![Technologies](https://skillicons.dev/icons?i=linux,github,gitlab,raspberrypi,arduino,vim)
+
+| Category | Tools, Libraries & Frameworks |
+| :--- | :--- |
+| **Offensive Security & Exploitation** | `Metasploit Framework` • `Burp Suite` • `OWASP ZAP` • `Kali Linux` • `Custom C2/RAT Frameworks` |
+| **Reconnaissance & OSINT** | `VanguardHTTP` • `Nmap` • `Shodan API` • `ffuf` • `Nuclei` • `Wappalyzer Rulesets` |
+| **Network Analysis & Forensics** | `Wireshark` • `Scapy` • `tcpdump` • `PCAP Analyzers` • `Cisco Packet Tracer` |
+| **Development & App Architecture** | `Wails v2` • `Go Concurrency (net/http, crypto/tls)` • `Python (OOP, Async, GUI)` • `C++ (STL, Memory Management)` |
+| **OS, Version Control & Hardware** | `Linux (Debian/Ubuntu/Kali)` • `Git / GitHub / GitLab` • `Raspberry Pi` • `Arduino` • `Bash / PowerShell Automation` |
+
+
+
+### 📖 Published Books & Technical Guides
+| Title | Focus Area | Access |
+| :--- | :--- | :--- |
+| **Mastering Python for Ethical Hacking** | Comprehensive guide to building custom offensive security tools | [Get the Book](https://www.buymeacoffee.com/halildeniz/e/296372) |
+| **Mastering Scapy** | Deep-dive guide into packet manipulation & network traffic analysis | [Read Guide](https://denizhalil.com/2023/11/12/scapy-guide-to-network-analysis-book/) |
+| **Navigating the Digital Future** | Structured foundation roadmap in programming & cybersecurity | [Get the Book](https://www.buymeacoffee.com/halildeniz/e/191664) |
+| **Python Learning Roadmap in 30 Days** | Open-source 30-day Python programming curriculum | [View Repository](https://github.com/HalilDeniz/Python30Days) |
+| **Practical Security Research & Posts** | Hands-on CTF walkthroughs, tool breakdowns & field notes | [Explore Posts](https://www.buymeacoffee.com/halildeniz/posts) |
+
+
+### 📊 GitHub Metrics & Activity
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=halildeniz&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=halildeniz&theme=tokyonight&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=halildeniz&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### 🏆 Verified Certifications & Learning Paths
+- **Security Engineer Learning Path** — [Verify Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-Z8QJL6WRWL.png)
+- **Red Teaming Learning Path** — [Verify Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-NCWCUV3KS8.png)
+- **CompTIA Pentest+ Learning Path** — [Verify Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-WJJBPULUUZ.png)
+- **Jr Penetration Tester Learning Path** — [Verify Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-LIGW7HCEYJ.png)
+- **SOC Level 1 Learning Path** — [Verify Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-TEL2JZTZA3.png)
+- **Cyber Defense Learning Path** — [Verify Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-ALYOXGPUMY.png)
+
+
+### 🤝 Connect & Support
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/halil-ibrahim-deniz/)
+[![Gmail](https://img.shields.io/badge/halildeniz313%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:halildeniz313@gmail.com)
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/halildeniz)
