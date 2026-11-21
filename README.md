@@ -73,9 +73,11 @@ My engineering work centers on concurrent architectures, low-level packet and HT
 
 
 ### 📊 GitHub Metrics & Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=halildeniz&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=halildeniz&theme=tokyonight&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=halildeniz&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=halildeniz&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=halildeniz&theme=tokyonight&hide_border=false" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=halildeniz&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</p>
 
 ### 🏆 Verified Certifications & Learning Paths
 - **Security Engineer Learning Path** — [Verify Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-Z8QJL6WRWL.png)
